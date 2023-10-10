@@ -2,11 +2,12 @@
 import { getCollection } from 'astro:content';
 import BaseLayout from '../layouts/BaseLayout.astro';
 import PostCard from '../components/PostCard.astro';
+import Home from '../components/Home.astro';
 
 let allPosts = await getCollection('posts');
 allPosts.sort((a, b) => new Date(b.data.pubDate).valueOf() - new Date(a.data.pubDate).valueOf());
 ---
-
+<Home />
 <BaseLayout>
   {[
     { start: 0, end: 1, cols: '1', mdCols: '1', lgCols: '1', special: true },
