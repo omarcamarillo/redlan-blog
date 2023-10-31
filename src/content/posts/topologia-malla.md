@@ -3,7 +3,7 @@ title: Topologia De Malla
 slug: topologia-de-malla
 description: Explicacion breve de como es y de como esta formada una topologia malla de red
 category:
-  - Segundo Parcial
+  - segundo-parcial
 tags:
   - Topologias 
   - Redes
