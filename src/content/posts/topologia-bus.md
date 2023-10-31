@@ -3,7 +3,7 @@ title: Topologia Bus
 slug: topologia-bus
 description: Explicacion breve de como es y de como esta formada una topologia bus de red
 category:
-  - Segundo Parcial
+  - segundo-parcial
 tags:
   - Topologias 
   - Redes
