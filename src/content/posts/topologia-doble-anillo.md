@@ -8,7 +8,7 @@ tags:
   - Topologias 
   - Redes
 pubDate: 2023-10-31
-cover: src/image/t-anillo.webp
+cover: src/images/t-anillo.webp
 coverAlt: Pequeña imagen demostrativa de nuestra topologia
 author: Omar Camarillo
 ---
