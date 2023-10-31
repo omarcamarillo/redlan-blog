@@ -3,7 +3,7 @@ title: Topologia Mixta
 slug: topologia-mixta
 description: Explicacion breve de como es y de como esta formada una topologia mixta de red
 category:
-  - Segundo Parcial
+  - segundo-parcial
 tags:
   - Topologias 
   - Redes
