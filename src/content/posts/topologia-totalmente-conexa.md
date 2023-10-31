@@ -3,7 +3,7 @@ title: Topologia Totalmente Conexa
 slug: topologia-totalmente-conexa
 description: Explicacion breve de como es y de como esta formada una topologia Totalmente Conexa de red
 category:
-  - Segundo Parcial
+  - segundo-parcial
 tags:
   - Topologias 
   - Redes
