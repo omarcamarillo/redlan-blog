@@ -8,7 +8,7 @@ tags:
   - Topologias 
   - Redes
 pubDate: 2023-10-31
-cover: src/img/t-mixta.webp
+cover: src/image/t-mixta.webp
 coverAlt: Pequeña imagen demostrativa de nuestra topologia
 author: Omar Camarillo
 ---
