@@ -3,7 +3,7 @@ title: Topologia De Anillo
 slug: topologia-de-anillo
 description: Explicacion breve de como es y de como esta formada una topologia anillo de red
 category:
-  - Segundo Parcial
+  - segundo-parcial
 tags:
   - Topologias 
   - Redes
