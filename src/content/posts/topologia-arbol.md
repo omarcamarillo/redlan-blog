@@ -3,7 +3,7 @@ title: Topologia De Arbol
 slug: topologia-de-arbol
 description: Explicacion breve de como es y de como esta formada una topologia arbol de red
 category:
-  - Segundo Parcial
+  - segundo-parcial
 tags:
   - Topologias 
   - Redes
