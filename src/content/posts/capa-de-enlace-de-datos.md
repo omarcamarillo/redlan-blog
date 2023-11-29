@@ -12,7 +12,7 @@ tags:
   - Modelo OSI
   - RedesLAN
 pubDate: 2023-10-09
-cover: "../../image/capa-de-enlace-de-datos.jpg"
+cover: "../../images/capa-de-enlace-de-datos.jpg"
 coverAlt: RedLAN - Blog
 author: Omar Camarillo
 ---
