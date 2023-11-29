@@ -7,7 +7,7 @@ transmitir los bits de los
 paquetes de datos sin
 errores."
 category:
-  - primer-parcial
+  - tercer-parcial
 tags:
   - Modelo OSI
   - RedesLAN
