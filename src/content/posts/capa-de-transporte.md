@@ -50,6 +50,5 @@ en un orden determinado.
 - SCTP
 - TCP
 - UDP
-
-  <br />
+<br />
 <a href="" download="expo" class="btn-download-post">Descargar Exposición</a>
