@@ -7,7 +7,7 @@ tags:
   - Modelo OSI
   - RedesLAN
 pubDate: 2023-10-09
-cover: src/images/capa-de-transporte.jpg
+cover: src/images/capa-de-transporte.png
 coverAlt: RedLAN - Blog
 author: Omar Camarillo
 ---
