@@ -7,7 +7,7 @@ tags:
   - Cable Cuaxial
   - RedesLAN
 pubDate: 2023-10-09
-cover: src/images/capa-de-red.jpg
+cover: src/images/capa-de-red.jpeg
 coverAlt: RedLAN - Blog
 author: Omar Camarillo
 ---
